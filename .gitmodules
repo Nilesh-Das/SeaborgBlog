@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Nilesh-Das/blog-mern-client
+[submodule "api"]
+	path = api
+	url = https://github.com/Nilesh-Das/blog-mern-api
